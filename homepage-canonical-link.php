@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Homepage_Canonical_Link
- * @version 0.1
+ * @version 0.1.1
  */
 /*
 Plugin Name: Homepage Canonical Link
 Plugin URI: http://joostschuur.com/wordpress/
 Description: Quick plugin to add a canonical link to the blog homepage, which WordPress 3.0 doesn't do for you. Good for SEO.
 Author: Joost Schuur
-Version: 0.1
+Version: 0.1.1
 Author URI: http://joostschuur.com/
 */
 
